@@ -1,0 +1,12 @@
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\Alert_Box_1.exe.config
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\Alert_Box_1.exe
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\Alert_Box_1.pdb
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\WebDriver.dll
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\WebDriver.Support.dll
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\WebDriver.xml
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\bin\Debug\WebDriver.Support.xml
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\obj\Debug\Alert_Box_1.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\obj\Debug\Alert_Box_1.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\obj\Debug\Alert_Box_1.csproj.CopyComplete
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\obj\Debug\Alert_Box_1.exe
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Alert_Box_1\obj\Debug\Alert_Box_1.pdb

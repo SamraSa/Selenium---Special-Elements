@@ -1,0 +1,12 @@
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\Text_Input_Field1.exe.config
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\Text_Input_Field1.exe
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\Text_Input_Field1.pdb
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\WebDriver.dll
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\WebDriver.Support.dll
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\WebDriver.xml
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\bin\Debug\WebDriver.Support.xml
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\obj\Debug\Text_Input_Field1.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\obj\Debug\Text_Input_Field1.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\obj\Debug\Text_Input_Field1.csproj.CopyComplete
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\obj\Debug\Text_Input_Field1.exe
+C:\Users\SiradS\Desktop\Udemy\Selenium\Selenium excercises\Special_Elements\Text_Input_Field1\obj\Debug\Text_Input_Field1.pdb

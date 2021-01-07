@@ -1,0 +1,12 @@
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\Check_Box1.exe.config
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\Check_Box1.exe
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\Check_Box1.pdb
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\WebDriver.dll
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\WebDriver.Support.dll
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\WebDriver.xml
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\bin\Debug\WebDriver.Support.xml
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\obj\Debug\Check_Box1.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\obj\Debug\Check_Box1.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\obj\Debug\Check_Box1.csproj.CopyComplete
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\obj\Debug\Check_Box1.exe
+C:\Users\SiradS\Desktop\Udemy\Selenium\Special_Elements\Check_Box1\obj\Debug\Check_Box1.pdb
